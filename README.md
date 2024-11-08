@@ -2,9 +2,10 @@
 
 Welcome to the official NoFaceCarding GitHub repository. We create and share a lot of free software, and your support helps us keep improving and developing even better tools.
 
-## Contact
+## Contacts
 
-- Telegram: [NoFaceCarding](https://t.me/NoFaceCarding)
+- Telegram group: [NoFaceCarding](https://t.me/+Ptqm_K5n1UQ3OTI0)
+- Telegrm: @NoFaceMelon
 
 ## Donations
 
